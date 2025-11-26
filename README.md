@@ -17,6 +17,10 @@ this is an replication study of https://github.com/mdhabibi/CNN-Predictor-for-Ma
 ✅ Achieved reliable classification accuracy on test samples  
 ⚠️ Requires more training data for clinical-level reliability  
 
+## Tech Stack
+- Python
+- TensorFlow
+
 ## Future Directions
 - Model optimization for mobile/low-power devices  
 - Integration with Raspberry Pi for **point-of-care diagnostics**  
