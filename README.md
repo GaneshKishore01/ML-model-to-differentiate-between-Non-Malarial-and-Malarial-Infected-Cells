@@ -6,7 +6,7 @@ A **TensorFlow 2 binary classification model** trained on the NIH Malaria Cell I
 A **TensorFlow 2 binary classification model** trained on the NIH Malaria Cell Image Dataset  
 to distinguish between **infected** and **non-infected red blood cells**.
 this is an replication study of https://github.com/mdhabibi/CNN-Predictor-for-Malaria_Cells-LIME-CAM?tab=readme-ov-file
-![Image Alt](https://github.com/GaneshKishore01/ML-model-to-differentiate-between-Non-Malarial-and-Malarial-Infected-Cells/blob/main/source%20of%20training%20dataset)
+![Image Alt](https://github.com/GaneshKishore01/ML-model-to-differentiate-between-Non-Malarial-and-Malarial-Infected-Cells/blob/main/Sample_Images.png)
 ## Features
 - Preprocessing and data augmentation  
 - Convolutional Neural Network (CNN) architecture  
